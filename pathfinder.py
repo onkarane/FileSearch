@@ -60,5 +60,5 @@ class searchFiles:
 
 
 if __name__  == '__main__':
-    sf = searchFiles("/Users/onkar/Projects/", 'PGIFCDB.sd.ReferenceStaticData')
+    sf = searchFiles("/Users/onkar/Projects/", 'test')
     sf.process_paths()
